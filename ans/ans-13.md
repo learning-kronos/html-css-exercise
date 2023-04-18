@@ -1,4 +1,4 @@
-## 解答例（演習11）
+## 解答例（演習13）
 
 contact.html
 
@@ -35,8 +35,8 @@ contact.html
                     </div>
                     <br>
                     <div>
-                        <label for="mail">メールアドレス</label><br>
-                        <input type="email" id="mail" maxlength="50" placeholder="50文字以内" required>
+                        <label for="email">メールアドレス</label><br>
+                        <input type="mail" id="mail" maxlength="50" placeholder="50文字以内" required>
                     </div>
                     <br>
                     <div>
