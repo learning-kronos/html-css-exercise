@@ -76,9 +76,9 @@ CSS（スタイルシート）でheaderタグの背景色を「#CCCCCC」に変�
 
 <img src="./img/ex-05.png" width="600">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-05.md) -->
+[解答例](ans/ans-05.md)
 
 <br><br>
 
@@ -88,9 +88,9 @@ CSS（スタイルシート）でheaderタグの背景色を「#CCCCCC」に変�
 
 <img src="./img/ex-06.png" width="600">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-06.md) -->
+[解答例](ans/ans-06.md)
 
 <br><br>
 
@@ -103,9 +103,9 @@ CSS（スタイルシート）でheaderタグの背景色を「#CCCCCC」に変�
 
 <img src="./img/ex-07.png" width="600">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-07.md) -->
+[解答例](ans/ans-07.md)
 
 <br><br>
 
@@ -115,9 +115,9 @@ sectionタグ内に次のような書籍一覧表を追加します。表のボ�
 
 <img src="./img/ex-08.png" width="600">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-08.md) -->
+[解答例](ans/ans-08.md)
 
 <br><br>
 
@@ -130,9 +130,9 @@ sectionタグ内に次のような書籍一覧表を追加します。表のボ�
 
 <img src="./img/ex-09.png" width="600">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-09.md) -->
+[解答例](ans/ans-09.md)
 
 <br><br>
 
@@ -144,9 +144,9 @@ sectionタグ内に次のような書籍一覧表を追加します。表のボ�
 
 <img src="./img/ex-10.png" width="700">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-10.md) -->
+[解答例](ans/ans-10.md)
 
 <br><br>
 
@@ -174,9 +174,9 @@ sectionタグ内に次のような書籍一覧表を追加します。表のボ�
 
 <img src="./img/ex-11_2.png" width="600">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-11.md) -->
+[解答例](ans/ans-11.md)
 
 <br><br>
 
@@ -186,9 +186,9 @@ sectionタグ内に次のような書籍一覧表を追加します。表のボ�
 
 <img src="./img/ex-12.png" width="500">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-12.md) -->
+[解答例](ans/ans-12.md)
 
 <br><br>
 
@@ -198,9 +198,9 @@ sectionタグ内に次のような書籍一覧表を追加します。表のボ�
 
 <img src="./img/ex-13.png" width="700">
 
-<!-- <br><br>
+<br><br>
 
-[解答例](ans/ans-13.md) -->
+[解答例](ans/ans-13.md)
 
 <br><br>
 
