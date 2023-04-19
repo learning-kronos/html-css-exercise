@@ -198,9 +198,9 @@ sectionタグ内に次のような書籍一覧表を追加します。表のボ�
 
 <img src="./img/ex-13.png" width="700">
 
-<br><br>
+<!-- <br><br>
 
-[解答例](ans/ans-13.md)
+[解答例](ans/ans-13.md) -->
 
 <br><br>
 
